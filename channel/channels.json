@@ -8,15 +8,6 @@
     "referer":"referer",
     "cookie":"cookie",
     "useragent":"useragent"},{
-    "name":"Star Sports 1 HD",
-    "image":"https://disneystar.com/media/2233/ss1-hd.jpg",
-    "link":"https://delta14tatasky.akamaized.net/out/i/7136433.mpd",
-    "type":"dash",
-    "licence_url":"https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=498f34f9a1fe4ae3ab19903090675a1b&key=ce4f9c8b4e31904857089c37858c2c2a",
-    "origin":"origin",
-    "referer":"referer",
-    "cookie":"cookie",
-    "useragent":"useragent"},{
     "name":"WPL Hindi",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
     "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_WPL23_Hindi_DIG_MOB",
@@ -26,6 +17,15 @@
     "referer":"referer",
     "cookie":"cookie",
     "useragent":"kaios"},{
+    "name":"Star Sports 1 HD",
+    "image":"https://disneystar.com/media/2233/ss1-hd.jpg",
+    "link":"https://delta14tatasky.akamaized.net/out/i/7136433.mpd",
+    "type":"dash",
+    "licence_url":"https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=498f34f9a1fe4ae3ab19903090675a1b&key=ce4f9c8b4e31904857089c37858c2c2a",
+    "origin":"origin",
+    "referer":"referer",
+    "cookie":"cookie",
+    "useragent":"useragent"},{
     "name":"WPL English",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
     "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_WPL23_English_DIG_MOB",
