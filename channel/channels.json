@@ -8,7 +8,7 @@
 "referer":"referer",
 "cookie":"cookie",
 "useragent":"useragent"},{
-    "name":"Ind vs Aus Hindi",
+    "name":"IND vs AUS Hindi",
     "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9736/1489736-h-2ca2868527e2",
     "link":"https://live-cf.cdn.hotstar.com/hls/live/2024725/incaallow-indvsaus2023/hin/1540022077/15mindvrm01348725d8172d4631b6c00a3d4184fbc317march2023/master_62zk5vil_fhd.m3u8",
     "type":"m3u8",
@@ -17,7 +17,7 @@
     "referer":"https://www.hotstar.com/",
     "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzI1L2luY2FhbGxvdy1pbmR2c2F1czIwMjMvaGluLzE1NDAwMjIwNzcvMTVtaW5kdnJtMDEzNDg3MjVkODE3MmQ0NjMxYjZjMDBhM2Q0MTg0ZmJjMzE3bWFyY2gyMDIzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzkxMjg0OTd9fX1dfQ__;CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA;CloudFront-Signature=ZjlhjdExUjfh920ZABa3MqzAgiCJEj0uMPakcPX0gYxjgBkC79-RJXqmAwSWz-BYPb2GPcF8XVM~g2dVJWoR2pP3gqIfpcIHGlbWSVDzS3EwIBUPbbnYtGjJ1MjfJOfFZJmxVY2M1FZOip40SLEHwXfxfY5VeoOz0xvnLeCcH7t65afzGv~16hA~WDQMMzeE3YEE~zL46FlcSWgoBOpas0K9BIacnc4ZDyJtkVbIvlOpzmap9EEhPSTakjwQRwqJvj0k6Bk47Rv-PjTppUA8DYb3LmpEPKcDgPYvc8J9e~p9P7mlz2ueK-p7TRWblHHgASfczkCjB9wIQghHqG9wSQ__;",
     "useragent":"useragent"},{
-    "name":"Ind vs Aus English",
+    "name":"IND vs AUS English",
     "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9736/1489736-h-2ca2868527e2",
     "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=JV_SportsHD3_DIG_BTS",
     "type":"m3u8",
