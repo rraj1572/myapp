@@ -28,7 +28,7 @@
     "useragent":"useragent"},{
     "name":"WPL Hindi",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
-    "link":"https://sports-south-test.jiocinema.com/hls/live/2099108/hd_akamai_ctv_avc_hin_wpl18/master.m3u8",
+    "link":"https://sports-south-test.jiocinema.com/hls/live/2099003/hd_akamai_ctv_avc_hin_wpl18/master.m3u8",
     "type":"m3u8",
     "licence_url":"",
     "origin":"origin",
@@ -46,7 +46,7 @@
     "useragent":"useragent"},{
     "name":"WPL English",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
-    "link":"https://sports-south-test.jiocinema.com/hls/live/2099105/hd_akamai_ctv_avc_eng_wpl18/master.m3u8",
+    "link":"https://sports-south-test.jiocinema.com/hls/live/2099000/hd_akamai_ctv_avc_eng_wpl18/master.m3u8",
     "type":"m3u8",
     "licence_url":"",
     "origin":"origin",
@@ -55,7 +55,7 @@
     "useragent":"kaios"},{
     "name":"WPL Hindi 4K",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
-    "link":"https://sports-south-test.jiocinema.com/hls/live/2099144/uhd_4k_akamai_avc_hin_wpl18/master.m3u8",
+    "link":"https://sports-south-test.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_hin_wpl18/master.m3u8",
     "type":"m3u8",
     "licence_url":"",
     "origin":"origin",
@@ -64,7 +64,7 @@
     "useragent":"kaios"},{
     "name":"WPL English 4K",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
-    "link":"https://sports-south-test.jiocinema.com/hls/live/2099144/uhd_4k_akamai_avc_eng_wpl18/master.m3u8",
+    "link":"https://sports-south-test.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_eng_wpl18/master.m3u8",
     "type":"m3u8",
     "licence_url":"",
     "origin":"origin",
