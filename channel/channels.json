@@ -8,7 +8,7 @@
     "referer":"referer",
     "cookie":"cookie",
     "useragent":"useragent",
-    "visibile":"false"},{"name":"Pathaan FHD",
+    "visible":"false"},{"name":"Pathaan FHD",
     "image":"https://m.media-amazon.com/images/S/pv-target-images/ecb62f5c3f88482bfb5da4f12ace26f0ba1c736f77329bc1305b5700fa85a9f1._UR1920,1080_UX1920_UY1080_.jpg",
     "link":"https://assets-1.mypowerdisk.com/transcode_video/a93b0e05877bd0febffde58902a52ecb/dash/aead2585dc639b77628edaa817199a25.mpd",
     "type":"dash",
@@ -17,7 +17,7 @@
     "referer":"referer",
     "cookie":"cookie",
     "useragent":"useragent",
-    "visibile":"true"},{
+    "visible":"true"},{
         "name":"IND vs AUS English",
         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9736/1489736-h-2ca2868527e2",
         "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=JV_SportsHD4_DIG_BTS",
@@ -27,7 +27,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"kaios",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"Star Sports 1 Hindi HD",
         "image":"https://disneystar.com/media/2237/ss1-hd-hindi.jpg",
         "link":"https://delta4tatasky.akamaized.net/out/i/6527246.mpd",
@@ -37,7 +37,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"useragent",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"WPL Hindi",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
         "link":"https://sports-south-test.jiocinema.com/hls/live/2099107/hd_akamai_mob_avc_hin_wpl20/master.m3u8",
@@ -47,7 +47,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"kaios",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"Star Sports 1 HD",
         "image":"https://disneystar.com/media/2233/ss1-hd.jpg",
         "link":"https://delta14tatasky.akamaized.net/out/i/7136433.mpd",
@@ -57,7 +57,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"useragent",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"WPL English",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
         "link":"https://sports-south-test.jiocinema.com/hls/live/2099106/hd_akamai_mob_avc_eng_wpl20/master.m3u8",
@@ -67,7 +67,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"kaios",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"WPL Hindi 4K",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
         "link":"https://sports-south-test.jiocinema.com/hls/live/2099144/uhd_4k_akamai_avc_hin_wpl20/master.m3u8",
@@ -77,7 +77,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"kaios",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"WPL English 4K",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
         "link":"https://sports-south-test.jiocinema.com/hls/live/2099144/uhd_4k_akamai_avc_eng_wpl20/master.m3u8",
@@ -87,7 +87,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"kaios",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"Sports18 1 HD",
         "image":"https://jioimages.cdn.jio.com/imagespublic/56/36/301229_1650377679650_l_high.jpg",
         "link":"https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd",
@@ -97,7 +97,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"useragent",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"Star Sports 2 HD",
         "image":"https://disneystar.com/media/2235/ss2-hd.jpg",
         "link":"https://delta13tatasky.akamaized.net/out/i/2285199.mpd",
@@ -107,7 +107,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"useragent",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"Star Sports Select 1 HD",
         "image":"https://disneystar.com/media/2231/7e25132017-009.jpg",
         "link":"https://delta14tatasky.akamaized.net/out/i/4779611.mpd",
@@ -117,7 +117,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"useragent",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"Star Sports Select 2 HD",
         "image":"https://disneystar.com/media/2240/7e29165401-001.jpg",
         "link":"https://delta43tatasky.akamaized.net/out/i/18038.mpd",
@@ -127,7 +127,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"useragent",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"Sony TEN1 HD",
         "image":"https://images.slivcdn.com/landscape_thumb/Sony_TEN1HD_23oct_landscape_thumb.jpg",
         "link":"https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8",
@@ -137,7 +137,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"useragent",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"Sony TEN2 HD",
         "image":"https://images.slivcdn.com/landscape_thumb/Sony_TEN2HD_23oct_landscape_thumb.jpg",
         "link":"https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8",
@@ -147,7 +147,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"useragent",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"Sony TEN3 HD",
         "image":"https://images.slivcdn.com/landscape_thumb/Sony_TEN3HD_23oct_landscape_thumb.jpg",
         "link":"https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8",
@@ -157,7 +157,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"useragent",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"Sony TEN4 HD",
         "image":"https://images.slivcdn.com/landscape_thumb/Sony_TEN4HD_23oct_landscape_thumb.jpg",
         "link":"https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8",
@@ -167,7 +167,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"useragent",
-        "visibile":"true"},{
+        "visible":"true"},{
         "name":"Sony TEN5 HD",
         "image":"https://images.slivcdn.com/landscape_thumb/Sony_TEN5HD_23oct_landscape_thumb.jpg",
         "link":"https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
@@ -177,7 +177,7 @@
         "referer":"referer",
         "cookie":"cookie",
         "useragent":"useragent",
-        "visibile":"true"},{
+        "visible":"true"},{
     "name":"Join TG @iamsomx",
     "image":"https://hogatoga.com/wp-content/uploads/2021/02/Find-and-Join-Telegram-channel-hogatoga-1068x601.jpg",
     "link":"",
@@ -187,5 +187,5 @@
     "referer":"referer",
     "cookie":"cookie",
     "useragent":"useragent",
-    "visibile":"true"}]}
+    "visible":"true"}]}
     
