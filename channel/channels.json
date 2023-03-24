@@ -78,6 +78,16 @@
         "cookie":"cookie",
         "useragent":"kaios",
         "visible":"true"},{
+        "name":"WPL Telugu",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
+        "link":"https://sports-south-test.jiocinema.com/hls/live/2099311/hd_akamai_ctv_avc_tel_wpl21/master.m3u8",
+        "type":"m3u8",
+        "licence_url":"",
+        "origin":"origin",
+        "referer":"referer",
+        "cookie":"cookie",
+        "useragent":"kaios",
+        "visible":"true"},{
         "name":"Sports18 1 HD",
         "image":"https://jioimages.cdn.jio.com/imagespublic/56/36/301229_1650377679650_l_high.jpg",
         "link":"https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd",
