@@ -18,16 +18,6 @@
     "cookie":"cookie",
     "useragent":"useragent",
     "visible":"true"},{
-        "name":"IND vs AUS English",
-        "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9736/1489736-h-2ca2868527e2",
-        "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=JV_SportsHD4_DIG_BTS",
-        "type":"m3u8",
-        "licence_url":"",
-        "origin":"origin",
-        "referer":"referer",
-        "cookie":"cookie",
-        "useragent":"kaios",
-        "visible":"true"},{
         "name":"Star Sports 1 Hindi HD",
         "image":"https://disneystar.com/media/2237/ss1-hd-hindi.jpg",
         "link":"https://delta4tatasky.akamaized.net/out/i/6527246.mpd",
