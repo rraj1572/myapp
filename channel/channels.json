@@ -1,8 +1,8 @@
 {"channels":[{
     "name":"Join TG @iamsomx",
     "image":"https://hogatoga.com/wp-content/uploads/2021/02/Find-and-Join-Telegram-channel-hogatoga-1068x601.jpg",
-    "link":"",
-    "type":"",
+    "link":"https://t.me/iamsomx",
+    "type":"external",
     "licence_url":"",
     "origin":"origin",
     "referer":"referer",
@@ -187,5 +187,5 @@
     "referer":"referer",
     "cookie":"cookie",
     "useragent":"useragent",
-    "visible":"true"}]}
+    "visible":"false"}]}
     
