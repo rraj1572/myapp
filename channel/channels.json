@@ -170,7 +170,7 @@
         "visible":"true"},{
         "name":"Sony TEN5 HD",
         "image":"https://images.slivcdn.com/landscape_thumb/Sony_TEN5HD_23oct_landscape_thumb.jpg",
-        "link":"https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
+        "link":"https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
         "type":"m3u8",
         "licence_url":"licence url",
         "origin":"origin",
