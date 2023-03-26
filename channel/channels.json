@@ -30,7 +30,7 @@
         "visible":"true"},{
         "name":"WPL Hindi",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
-        "link":"https://sports-south-test.jiocinema.com/hls/live/2099004/hd_akamai_mob_avc_hin_wpl21/master.m3u8",
+        "link":"https://sports-south-test.jiocinema.com/hls/live/2099004/hd_akamai_mob_avc_hin_wpl22/master.m3u8",
         "type":"m3u8",
         "licence_url":"",
         "origin":"origin",
@@ -50,7 +50,7 @@
         "visible":"true"},{
         "name":"WPL English",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
-        "link":"https://sports-south-test.jiocinema.com/hls/live/2098999/hd_akamai_mob_avc_eng_wpl21/master.m3u8",
+        "link":"https://sports-south-test.jiocinema.com/hls/live/2098999/hd_akamai_mob_avc_eng_wpl22/master.m3u8",
         "type":"m3u8",
         "licence_url":"",
         "origin":"origin",
@@ -60,7 +60,7 @@
         "visible":"true"},{
         "name":"WPL Hindi 4K",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
-        "link":"https://sports-south-test.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_hin_wpl21/master.m3u8",
+        "link":"https://sports-south-test.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_hin_wpl22/master.m3u8",
         "type":"m3u8",
         "licence_url":"",
         "origin":"origin",
@@ -70,7 +70,7 @@
         "visible":"true"},{
         "name":"WPL English 4K",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
-        "link":"https://sports-south-test.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_eng_wpl21/master.m3u8",
+        "link":"https://sports-south-test.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_eng_wpl22/master.m3u8",
         "type":"m3u8",
         "licence_url":"",
         "origin":"origin",
@@ -80,7 +80,7 @@
         "visible":"true"},{
         "name":"WPL Telugu",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn60Gp6JKRw87vBJq3UE1ERPNT1ElTXMw9lQ&usqp=CAU",
-        "link":"https://sports-south-test.jiocinema.com/hls/live/2099311/hd_akamai_ctv_avc_tel_wpl21/master.m3u8",
+        "link":"https://sports-south-test.jiocinema.com/hls/live/2099311/hd_akamai_ctv_avc_tel_wpl22/master.m3u8",
         "type":"m3u8",
         "licence_url":"",
         "origin":"origin",
