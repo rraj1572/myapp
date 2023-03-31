@@ -10,7 +10,7 @@
     "useragent":"useragent",
     "visible":"true"},{
     "name":"IPL Hindi 4K",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+    "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
     "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Hin_UHD_IDC_BTS",
     "type":"m3u8",
     "licence_url":"licence url",
@@ -20,7 +20,7 @@
     "useragent":"useragent",
     "visible":"true"},{
     "name":"IPL English",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+    "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
     "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Eng_HD_IDC_BTS",
     "type":"m3u8",
     "licence_url":"licence url",
@@ -30,7 +30,7 @@
     "useragent":"useragent",
     "visible":"true"},{
     "name":"IPL English 4K",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+    "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
     "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Eng_UHD_IDC_BTS",
     "type":"m3u8",
     "licence_url":"licence url",
@@ -40,7 +40,7 @@
     "useragent":"useragent",
     "visible":"true"},{
         "name":"IPL Bhojpuri",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+        "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
         "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Bhoj_HD_IDC_BTS",
         "type":"m3u8",
         "licence_url":"licence url",
@@ -50,7 +50,7 @@
         "useragent":"useragent",
         "visible":"true"},{
         "name":"IPL Bhojpuri 4K",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+        "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
         "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Bhoj_UHD_IDC_BTS",
         "type":"m3u8",
         "licence_url":"licence url",
@@ -61,7 +61,7 @@
         "visible":"true"},
         {
             "name":"IPL Marathi",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+            "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
             "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Mar_HD_IDC_BTS",
             "type":"m3u8",
             "licence_url":"licence url",
@@ -71,7 +71,7 @@
             "useragent":"useragent",
             "visible":"true"},{
             "name":"IPL Marathi 4K",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+            "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
             "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Mar_UHD_IDC_BTS",
             "type":"m3u8",
             "licence_url":"licence url",
@@ -82,7 +82,7 @@
             "visible":"true"},
             {
                 "name":"IPL Gujarati",
-                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                 "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Guj_HD_IDC_BTS",
                 "type":"m3u8",
                 "licence_url":"licence url",
@@ -92,7 +92,7 @@
                 "useragent":"useragent",
                 "visible":"true"},{
                 "name":"IPL Gujarati 4K",
-                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                 "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Guj_UHD_IDC_BTS",
                 "type":"m3u8",
                 "licence_url":"licence url",
@@ -103,7 +103,7 @@
                 "visible":"true"},
                 {
                     "name":"IPL Bengali",
-                    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                    "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                     "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Ben_HD_IDC_BTS",
                     "type":"m3u8",
                     "licence_url":"licence url",
@@ -113,7 +113,7 @@
                     "useragent":"useragent",
                     "visible":"true"},{
                     "name":"IPL Bengali 4K",
-                    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                    "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                     "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Ben_UHD_IDC_BTS",
                     "type":"m3u8",
                     "licence_url":"licence url",
@@ -124,7 +124,7 @@
                     "visible":"true"},
                     {
                         "name":"IPL Punjabi",
-                        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                        "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                         "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Punj_HD_IDC_BTS",
                         "type":"m3u8",
                         "licence_url":"licence url",
@@ -134,7 +134,7 @@
                         "useragent":"useragent",
                         "visible":"true"},{
                         "name":"IPL Punjabi 4K",
-                        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                        "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                         "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Punj_UHD_IDC_BTS",
                         "type":"m3u8",
                         "licence_url":"licence url",
@@ -145,7 +145,7 @@
                         "visible":"true"},
                         {
                             "name":"IPL Odia",
-                            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                            "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                             "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Odia_HD_IDC_BTS",
                             "type":"m3u8",
                             "licence_url":"licence url",
@@ -155,7 +155,7 @@
                             "useragent":"useragent",
                             "visible":"true"},{
                             "name":"IPL Odia 4K",
-                            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                            "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                             "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Odia_UHD_IDC_BTS",
                             "type":"m3u8",
                             "licence_url":"licence url",
@@ -166,7 +166,7 @@
                             "visible":"true"},
                             {
                                 "name":"IPL Tamil",
-                                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                                "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                                 "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Tam_HD_IDC_BTS",
                                 "type":"m3u8",
                                 "licence_url":"licence url",
@@ -176,7 +176,7 @@
                                 "useragent":"useragent",
                                 "visible":"true"},{
                                 "name":"IPL Tamil 4K",
-                                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                                "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                                 "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Tam_UHD_IDC_BTS",
                                 "type":"m3u8",
                                 "licence_url":"licence url",
@@ -187,7 +187,7 @@
                                 "visible":"true"},
                                 {
                                     "name":"IPL Telegu",
-                                    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                                    "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                                     "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Tel_HD_IDC_BTS",
                                     "type":"m3u8",
                                     "licence_url":"licence url",
@@ -197,7 +197,7 @@
                                     "useragent":"useragent",
                                     "visible":"true"},{
                                     "name":"IPL Telegu 4K",
-                                    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                                    "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                                     "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Tel_UHD_IDC_BTS",
                                     "type":"m3u8",
                                     "licence_url":"licence url",
@@ -208,7 +208,7 @@
                                     "visible":"true"},
                                     {
                                         "name":"IPL Kannada",
-                                        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                                        "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                                         "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Kan_HD_IDC_BTS",
                                         "type":"m3u8",
                                         "licence_url":"licence url",
@@ -218,7 +218,7 @@
                                         "useragent":"useragent",
                                         "visible":"true"},{
                                         "name":"IPL Kannada 4K",
-                                        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                                        "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                                         "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Kan_UHD_IDC_BTS",
                                         "type":"m3u8",
                                         "licence_url":"licence url",
@@ -229,7 +229,7 @@
                                         "visible":"true"},
                                         {
                                             "name":"IPL Malayalam",
-                                            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                                            "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                                             "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Mal_HD_IDC_BTS",
                                             "type":"m3u8",
                                             "licence_url":"licence url",
@@ -239,7 +239,7 @@
                                             "useragent":"useragent",
                                             "visible":"true"},{
                                             "name":"IPL Malayalam 4K",
-                                            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                                            "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                                             "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_Mal_UHD_IDC_BTS",
                                             "type":"m3u8",
                                             "licence_url":"licence url",
@@ -327,7 +327,7 @@
                                                                         "visible":"true"},
                                                                         {
                                                                             "name":"IPL CAM 4 4K",
-                                                                            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzvUAMh7nUIlIsa0o6P3p8ff-3gOkLgGo-w&usqp=CAU",
+                                                                            "image":"https://v3img.voot.com/resizeHigh,w_1920,h_1080/v3Storage/assets/ipl_live_carousel_gt_vs_csk_hd_mobile-1680260306520.jpg?imformat=chrome",
                                                                             "link":"https://rrjiotvweb.azurewebsites.net/channel/wpl.php?id=M1_IPL23_CAM04_UHD_IDC_BTS",
                                                                             "type":"m3u8",
                                                                             "licence_url":"licence url",
