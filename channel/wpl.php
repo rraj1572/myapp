@@ -39,7 +39,7 @@ $xzx = json_decode($xresponse, true);
 $m3u8= $xzx['m3u8'];
 $cookie = end(explode('index.m3u8?', $m3u8));
 
-$final ="https://jiolivestreaming.akamaized.net/bpk-tv/$id/Fallback/index.m3u8?$cookie";
+$final ="https://prod-sports-north-gm.jiocinema.com/bpk-tv/$id/Fallback/index.m3u8";
 
 header("Location: $final");
 
