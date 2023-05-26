@@ -1,7 +1,7 @@
 <?php
 
 $id =$_GET['id'];
-i
+
 $curl = curl_init();
 $url="https://userauth.voot.com/usersV3/v3/login";
 curl_setopt_array($curl, array(
